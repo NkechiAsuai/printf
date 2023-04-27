@@ -9,8 +9,6 @@
 
  * @i: List of arguments to be printed.
 
- *
-
  * Return: Precision.
 
  */

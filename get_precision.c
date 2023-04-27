@@ -11,8 +11,6 @@
 
  * @list: list of arguments.
 
- *
-
  * Return: Precision.
 
  */
